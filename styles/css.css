@@ -1,0 +1,10 @@
+html{
+    font-family: Mont-Serrat, sans-serif;
+}
+#header{
+    background-color: rgb(80, 140, 170);
+    padding: 15px;
+}
+#header .titulo {    
+    color: #e3e3e3;
+}
